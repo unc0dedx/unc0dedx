@@ -4,6 +4,8 @@
 - ⚡ having fun on life
 - ⚡ coding and staying fit is my passion
 
+
+
 ## Coding Languages 
 <a href="https://www.learn-c.org">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -28,3 +30,6 @@
 ## Github Stats
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true)
+
+
+<img align="midlle" alt="GIF" src="https://giffiles.alphacoders.com/373/3736.gif" width=300 />
