@@ -4,8 +4,18 @@
 - ⚡ having fun on life
 - ⚡ coding and staying fit is my passion
 
+## Coding Languages 
+<a href="https://www.learn-c.org">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+<a href="https://learnjavascript.online">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
 
 ## Connect With Me
 <a href="mailto:dev.aquaware@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
+</a>
+<a href="https://discord.gg/wJ9UajQrJR">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
