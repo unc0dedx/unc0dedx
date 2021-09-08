@@ -8,9 +8,11 @@
 <a href="https://www.learn-c.org">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </a>
+
 <a href="https://www.learncpp.com">
   <img src="hhttps://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
+
 <a href="https://learnjavascript.online">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
