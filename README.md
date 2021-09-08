@@ -27,4 +27,4 @@
 
 ## Github Stats
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true))]
+![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true)
