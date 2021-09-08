@@ -29,6 +29,6 @@
 
 ## Github Stats
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true)
-![my github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-Voldigoad&langs_count=3&theme=radical&show_icons=true")
+<img src="https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-Voldigoad&langs_count=3&theme=radical&show_icons=true" height=200>
 
