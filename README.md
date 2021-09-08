@@ -32,4 +32,4 @@
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true)
 
 
-<img align="midlle" alt="GIF" src="https://giffiles.alphacoders.com/373/3736.gif" width=300 />
+<img align="midlle" alt="GIF" src="https://giffiles.alphacoders.com/373/3736.gif" width=500 />
