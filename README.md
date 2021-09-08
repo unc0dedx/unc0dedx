@@ -24,3 +24,7 @@
 <a href="https://discord.gg/wJ9UajQrJR">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+
+## Stats
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad)]
