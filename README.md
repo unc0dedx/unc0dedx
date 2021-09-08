@@ -1,7 +1,7 @@
 ## Hello There, Lucifer-Voldigoad aka leroi here
 
 - ⚡ working on projects...
-- ⚡ having fun on life
+- ⚡ having fun in life
 - ⚡ coding and staying fit is my passion
 
 
