@@ -25,6 +25,6 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-## Stats
+## Github Stats
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad)]
+[![my github stats](https://github-readme-stats.vercel.app/api?username=Lucifer-Voldigoad&theme=radical&show_icons=true))]
