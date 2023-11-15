@@ -1,4 +1,4 @@
-## Hello There, Lucifer-Voldigoad aka leroi here
+## Hello There, Yugi aka Kyo here
 
 - ⚡ working on projects...
 - ⚡ having fun in life
