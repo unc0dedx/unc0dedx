@@ -1,4 +1,4 @@
-## Hello There, Yugi aka Kyo here
+## Hello There, Yugi here
 
 - ⚡ working on projects...
 - ⚡ having fun in life
@@ -22,18 +22,3 @@
 <a href="https://web.dev/learn/css/">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
-
-
-## Connect With Me
-<a href="mailto:dev.aquaware@gmail.com@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://discord.gg/wJ9UajQrJR">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kyoisboneless&theme=radical&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoisboneless&langs_count=3&theme=radical&show_icons=true" height=200>
-
