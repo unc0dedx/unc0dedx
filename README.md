@@ -10,7 +10,7 @@
 
 - 💻 I spend way too much time thinking 
 - 💪 Trying to deadlift 180kg (currently at 120kg)
-- ⌨️ I collect and mod mechanical keyboards because why not
+- ⌨️ I collect and mod because why not
 - 🐧 Linux is my daily driver and I love the terminal
 - 🤓 Getting into systems programming and hardware stuff
 
