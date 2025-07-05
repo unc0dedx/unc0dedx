@@ -1,24 +1,20 @@
-## Hello There, Yugi here
+# 👋 Hey, I'm Yugi G. C!
 
-- ⚡ working on projects...
-- ⚡ having fun in life
-- ⚡ coding and staying fit is my passion
+**🎂 20 Years Old | 🎉 Born on 12th August 2004**  
+**🎓 Student | 💪 Gym Rat | 🤖 Tech Enthusiast**
+
+---
+
+### 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,vscode)]
+
+---
+
+### 🏋️‍♂️ Gym Progress
+- **Current Goal:** 180KG Deadlift, 100KG Bench Press, 100KG Squat
+- **PRs:** 120KG Deadlift, 70KG Bench Press, 65KG Squawt 
+
+---
 
 
-
-## Coding Languages 
-<a href="https://www.learn-c.org">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</a>
-<a href="https://www.learncpp.com">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-<a href="https://learnjavascript.online">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</a>
-<a href="https://www.learn-html.org">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://web.dev/learn/css/">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
+⭐ **Fun Fact:** i also like modding my peripherals 
