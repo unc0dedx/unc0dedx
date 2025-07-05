@@ -6,7 +6,7 @@
 ---
 
 ### 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,vscode)]
+[My Skills](https://skillicons.dev/icons?i=python,cpp,linux,vscode)
 
 ---
 
