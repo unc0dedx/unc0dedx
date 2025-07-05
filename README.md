@@ -1,20 +1,30 @@
-# 👋 Hey, I'm Yugi G. C!
+# Hi, I'm Yugi 👋
 
-**🎂 20 Years Old | Born on 12th August 2004**  
-**🎓 Student | 💪 Gym Rat | 🤖 Tech Enthusiast**
-
----
-
-### 🔧 Programming Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,vscode)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A6AF0&center=true&vCenter=true&width=500&lines=20-year-old+student+from+Germany;I+code,+lift+weights+and+break+things;Currently+obsessed+with+low-level+programming" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🏋️‍♂️ Gym Progress
-- **Current Goal:** 180KG Deadlift, 100KG Bench Press, 100KG Squat
-- **PRs:** 120KG Deadlift, 70KG Bench Press, 65KG Squawt 
+## A bit about me
+
+- 💻 I spend way too much time thinking 
+- 💪 Trying to deadlift 180kg (currently at 120kg)
+- ⌨️ I collect and mod mechanical keyboards because why not
+- 🐧 Linux is my daily driver and I love the terminal
+- 🤓 Getting into systems programming and hardware stuff
+
+## Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=linux" />
+        <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
-
-⭐ **Fun Fact:** i also like modding my peripherals 
+<div align="center">
+  <a href="https://github.com/unc0dedx">GitHub</a> • <a href="https://unc0dedx.github.io">Portfolio</a>
+</div>
