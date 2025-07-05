@@ -5,7 +5,7 @@
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Programming Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,vscode)
 
 ---
