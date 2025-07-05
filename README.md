@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yugi G. C!
 
-**🎂 20 Years Old | 🎉 Born on 12th August 2004**  
+**🎂 20 Years Old | Born on 12th August 2004**  
 **🎓 Student | 💪 Gym Rat | 🤖 Tech Enthusiast**
 
 ---
