@@ -1,4 +1,4 @@
-# Hi, I'm Yugi 👋
+# Hi, I'm Yugi aka Yogesh Ghimire Chhetri👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A6AF0&center=true&vCenter=true&width=500&lines=21-year-old+student+from+Germany;I+code,+lift+weights+and+break+things;obsessed+with+low-level+programming" alt="Typing SVG" />
