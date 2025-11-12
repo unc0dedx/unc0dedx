@@ -22,9 +22,3 @@
       <img src="https://skillicons.dev/icons?i=linux" />
         <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-
----
-
-<div align="center">
-  <a href="https://github.com/unc0dedx">GitHub</a> • <a href="https://unc0dedx.github.io">Portfolio</a>
-</div>
