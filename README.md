@@ -17,8 +17,5 @@
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
-      <img src="https://skillicons.dev/icons?i=linux" />
-        <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,vscode" alt="Tech Stack" />
 </p>
