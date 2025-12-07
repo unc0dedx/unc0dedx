@@ -21,4 +21,5 @@
     <img src="https://skillicons.dev/icons?i=cpp" />
       <img src="https://skillicons.dev/icons?i=linux" />
         <img src="https://skillicons.dev/icons?i=vscode" />
+          <img src="https://skillicons.dev/icons?i=rust" />
 </p>
